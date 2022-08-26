@@ -29,9 +29,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/mdtawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtawhidhassan" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/tawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tawhidhassan" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/tawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tawhidhassan" height="30" width="40" /></a>
+<a href="https://twitter.com/mdtawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtawhidhassan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tawhidh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tawhidh" height="30" width="40" /></a>
+<a href="https://fb.com/tawhid.cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tawhid.cs" height="30" width="40" /></a>
 </p>
 
 

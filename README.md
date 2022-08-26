@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Md Tawhid Hassan</h1>
 <h3 align="center">A passionate competitive programmer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhidh&label=Profile%20views&color=0e75b6&style=flat" alt="tawhidh" /> </p>
+<p align="left">
+  <a href="https://leetcode.com/tawhidhassan/">
+    <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />
+  </a>
+  <a href="https://codeforces.com/profile/tawhidhassan">
+    <img src="https://raw.githubusercontent.com/tawhidhassan/cf-stats/main/output/rating.svg" alt="Leet code rating" />
+  </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tawhidh" alt="tawhidh" /></a> </p>
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/mdtawhidhassan" target="blank"><img src="https://img.shields.io/twitter/follow/mdtawhidhassan?logo=twitter&style=for-the-badge" alt="mdtawhidhassan" /></a> </p>
 

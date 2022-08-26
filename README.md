@@ -13,6 +13,16 @@
 - :fire: Interested in DevOps and Cloud engineering;
 - :calendar: Looking for contributing to java based open source projects 
 
+#### Bio
+
+- 🏢 I'm currently pursuing a bachelor’s degree from **Southeast University** in **CSE**
+- ⚙️ I use daily: `.cpp`, `.java`
+- 🌍 I'm mostly active within the **Programming Community**
+- 🌱 Learning all about **DevOps**
+- 💬 Ping me about **C++**, **Java**, **Spring boot**, **RestAPIs**, **MySQL**
+- 📫 Reach me: [twitter.com/mdtawhidhassan](https://twitter.com/mdtawhidhassan)
+- 📝 Checkout my [Resume]
+
 <p align="left"> <a href="https://twitter.com/mdtawhidhassan" target="blank"><img src="https://img.shields.io/twitter/follow/mdtawhidhassan?logo=twitter&style=for-the-badge" alt="mdtawhidhassan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -4,6 +4,9 @@
   <a href="https://codeforces.com/profile/tawhidhassan">
     <img src="https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/max_rating.svg" alt="Codeforces max rating" />
   </a>
+  <a href="https://leetcode.com/tawhidhassan/">
+    <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />
+  </a>
 </p>
 
 #### Now

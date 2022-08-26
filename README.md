@@ -1,6 +1,4 @@
 <h1 align="left">Hi 👋, I'm Md Tawhid Hassan</h1>
-<h5 align="left">A passionate competitive programmer from Bangladesh</h5>
-
 <p align="left">
   <a href="https://leetcode.com/tawhidhassan/">
     <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />

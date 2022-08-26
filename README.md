@@ -7,6 +7,7 @@
 </p>
 
 #### Now
+- :java I'm currently learning **Spring boot**
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
@@ -14,7 +15,6 @@
 - :school: Studying **CSE** at **Southeast University**
 - ⚙️ I use daily: `.cpp`, `.java`
 - 🌍 I'm mostly active within the **Programming Community**
-- 🌱 Learning all about **Java**
 - 💬 Ping me about **C++**, **Java**, **Spring boot**, **RestAPIs**, **MySQL**
 - 📫 Reach me: [twitter.com/mdtawhidhassan](https://twitter.com/mdtawhidhassan)
 - 📝 Checkout my [Resume]

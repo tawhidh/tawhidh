@@ -7,16 +7,14 @@
 </p>
 
 #### Now
-- :school: Studying **CSE** at **Southeast University**
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
 #### Bio
-
-- 🏢 I'm currently pursuing a bachelor’s degree from **Southeast University** in **CSE**
+- :school: Studying **CSE** at **Southeast University**
 - ⚙️ I use daily: `.cpp`, `.java`
 - 🌍 I'm mostly active within the **Programming Community**
-- 🌱 Learning all about **DevOps**
+- 🌱 Learning all about **Java**
 - 💬 Ping me about **C++**, **Java**, **Spring boot**, **RestAPIs**, **MySQL**
 - 📫 Reach me: [twitter.com/mdtawhidhassan](https://twitter.com/mdtawhidhassan)
 - 📝 Checkout my [Resume]

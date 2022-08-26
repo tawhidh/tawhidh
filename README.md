@@ -25,7 +25,7 @@
 <b>⚡ Github Stats</b>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tawhidh&show_icons=true&locale=en" alt="tawhidh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawhidh&show_icons=true&locale=en&layout=compact" alt="tawhidh" /></p>
-
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

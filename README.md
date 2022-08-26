@@ -7,7 +7,7 @@
 </p>
 
 #### Now
-- 🍀 I'm currently learning **Spring boot**
+- 🥬 I'm currently learning **Spring boot**
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 

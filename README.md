@@ -1,7 +1,10 @@
 <h1 align="left">Hi 👋, I'm Md Tawhid Hassan</h1>
 
-
-![](https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/max_rating.svg)
+<p align="left">
+  <a href="https://codeforces.com/profile/tawhidhassan">
+    <img src="https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/max_rating.svg" alt="Codeforces max rating" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://leetcode.com/tawhidhassan/">

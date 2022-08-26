@@ -16,7 +16,7 @@
 - ⚙️ I use daily: `.cpp`, `.java`
 - 🌍 I'm mostly active within the **Programming Community**
 - 💬 Ping me about **C++**, **Java**, **Spring boot**, **RestAPIs**, **MySQL**
-- 📫 Reach me: [twitter.com/mdtawhidhassan](https://twitter.com/mdtawhidhassan)
+- 📫 Reach me: [linkedin.com/in/tawhidh](https://www.linkedin.com/in/tawhidh/)
 - 📝 Checkout my [Resume]
 
 #### My Current Stack

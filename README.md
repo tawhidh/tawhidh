@@ -8,6 +8,10 @@
 
 </p>
 
+#### Now
+
+- :fire: Interested in DevOps and Cloud engineering;
+- :calendar: Looking for contributing to java based open source projects 
 
 <p align="left"> <a href="https://twitter.com/mdtawhidhassan" target="blank"><img src="https://img.shields.io/twitter/follow/mdtawhidhassan?logo=twitter&style=for-the-badge" alt="mdtawhidhassan" /></a> </p>
 

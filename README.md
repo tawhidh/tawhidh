@@ -7,12 +7,12 @@
 </p>
 
 #### Now
-- :java I'm currently learning **Spring boot**
+- 🍀 I'm currently learning **Spring boot**
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
 #### Bio
-- :school: Studying **CSE** at **Southeast University**
+- 👨‍🎓 Studying **CSE** at **Southeast University**
 - ⚙️ I use daily: `.cpp`, `.java`
 - 🌍 I'm mostly active within the **Programming Community**
 - 💬 Ping me about **C++**, **Java**, **Spring boot**, **RestAPIs**, **MySQL**

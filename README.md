@@ -7,7 +7,7 @@
 </p>
 
 #### Now
-- :university: Interested in DevOps and Cloud engineering
+- :school: Interested in DevOps and Cloud engineering
 - :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 

@@ -7,6 +7,9 @@
   <a href="https://leetcode.com/tawhidhassan/">
     <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />
   </a>
+  <a href="https://codechef.com/tawhidhassan/">
+    <img src="https://cp-logo.vercel.app/codechef/tawhidhassan" alt="codechef rating" />
+  </a>
 </p>
 
 #### Now

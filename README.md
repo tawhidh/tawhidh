@@ -1,9 +1,7 @@
 <h1 align="left">Hi 👋, I'm Md Tawhid Hassan</h1>
-![](https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/light_card.svg)
+
 
 ![](https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/rating.svg)
 
 <p align="left">
   <a href="https://leetcode.com/tawhidhassan/">

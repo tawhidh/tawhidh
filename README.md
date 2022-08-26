@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Md Tawhid Hassan</h1>
-<h3 align="left">A passionate competitive programmer from Bangladesh</h3>
+<h5 align="left">A passionate competitive programmer from Bangladesh</h5>
 
 <p align="left">
   <a href="https://leetcode.com/tawhidhassan/">

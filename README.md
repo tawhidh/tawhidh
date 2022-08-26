@@ -6,16 +6,9 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://leetcode.com/tawhidhassan/">
-    <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />
-  </a>
-
-</p>
-
 #### Now
-
-- :fire: Interested in DevOps and Cloud engineering;
+- :university: Interested in DevOps and Cloud engineering
+- :fire: Interested in DevOps and Cloud engineering
 - :calendar: Looking for contributing to java based open source projects 
 
 #### Bio

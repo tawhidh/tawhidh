@@ -25,13 +25,13 @@
 <b>⚡ Github Stats</b>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tawhidh&show_icons=true&locale=en" alt="tawhidh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawhidh&show_icons=true&locale=en&layout=compact" alt="tawhidh" /></p>
-<br>
+<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mdtawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtawhidhassan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tawhidhassan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tawhidhassan" height="30" width="40" /></a>
+  <a href="https://twitter.com/mdtawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdtawhidhassan" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/tawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tawhidhassan" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/tawhidhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tawhidhassan" height="30" width="40" /></a>
 </p>
 
 

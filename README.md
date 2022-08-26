@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Md Tawhid Hassan</h1>
-<h3 align="center">A passionate competitive programmer from Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Md Tawhid Hassan</h1>
+<h3 align="left">A passionate competitive programmer from Bangladesh</h3>
 
 <p align="left">
   <a href="https://leetcode.com/tawhidhassan/">
     <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />
-  </a>
-  <a href="https://codeforces.com/profile/tawhidhassan">
-    <img src="https://raw.githubusercontent.com/tawhidhassan/cf-stats/main/output/rating.svg" alt="Leet code rating" />
   </a>
 
 </p>

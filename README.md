@@ -28,7 +28,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=tawhidh&show_icons=true&locale=en" alt="tawhidh" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tawhidh&show_icons=true&locale=en&layout=compact" alt="tawhidh" /></p>
 
-<p align="left"> <a href="https://twitter.com/mdtawhidhassan" target="blank"><img src="https://img.shields.io/twitter/follow/mdtawhidhassan?logo=twitter&style=for-the-badge" alt="mdtawhidhassan" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

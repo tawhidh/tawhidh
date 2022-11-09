@@ -1,22 +1,5 @@
 <h1 align="left">Hi 👋, I'm Md Tawhid Hassan</h1>
 
-<p align="left">
-  <a href="https://codeforces.com/profile/tawhidhassan">
-    <img src="https://raw.githubusercontent.com/tawhidh/cf-stats/main/output/max_rating.svg" alt="Codeforces max rating" />
-  </a>
-  <a href="https://leetcode.com/tawhidhassan/">
-    <img src="https://cp-logo.vercel.app/leetcode/tawhidhassan" alt="Leet code rating" />
-  </a>
-  <a href="https://codechef.com/tawhidhassan/">
-    <img src="https://cp-logo.vercel.app/codechef/tawhidhassan" alt="codechef rating" />
-  </a>
-</p>
-
-#### Now
-- 🌱 I'm currently learning **Spring boot**
-- :fire: Interested in DevOps and Cloud engineering
-- :calendar: Looking for contributing to java based open source projects 
-
 #### Bio
 - 👨‍🎓 Studying **CSE** at **Southeast University**
 - ⚙️ I use daily: `.cpp`, `.java`

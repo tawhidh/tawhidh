@@ -1,7 +1,7 @@
 <h1 align="left">Hi, it's Tawhid. 👋</h1>
 
 ### About Me
-- 🥊 I love to take challenges and solve problems that taught me to think outside the box and <br /> want to contribute to java based open source projects
+- 😍 I love to take challenges and solve problems that taught me to think outside the box and <br /> want to contribute to java based open source projects
 - [tawhidh.github.io](https://tawhidh.github.io)
 - [linkedin/tawhidh](https://www.linkedin.com/in/tawhidh/)
 - [twitter/mdtawhidhassan](https://twitter.com/mdtawhidhassan)
